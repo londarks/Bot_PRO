@@ -1,4 +1,4 @@
-# pokemon-revolução-bot
+# pokemon-revolution-bot
 <h1>requirements</h1>
 <p></p>
 <ul>
